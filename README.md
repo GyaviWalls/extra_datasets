@@ -2,9 +2,7 @@
 
 ### Author: Ayebare Gyavira
 
-"Never make a trade or take an action unless it's backed by reason and analysis." - William J. O'Neil
-
-Companies have a tendency to ask for how much an applicant is comfortable with as salary. This can be decided based on a number of factors plus other considerations. In predicting this, it allows applicants to estimate how much a company's worth and if they can afford to work their given the company's expectations and environment. In this project, we look at some of the features and how they affect whether someone earns less that a 50k within a certain company.
+Companies have a tendency to ask for how much an applicant is comfortable with as salary. This can be decided based on a number of factors plus other considerations. In predicting this, it allows applicants to estimate how much a company's worth and if they can afford to work there given the company's expectations and environment. In this project, we look at some of the features considered and how they affect whether someone earns less than 50k within their respective companies.
 
 ### Data Source:
 
