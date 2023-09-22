@@ -8,15 +8,29 @@ Companies have a tendency to ask for how much an applicant is comfortable with a
 
 ### Data Source:
 
-https://www.kaggle.com/datasets/wenruliu/adult-income-dataset
-
 Adult income dataset [https://www.kaggle.com/datasets/wenruliu/adult-income-dataset](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
 
 In the original dataset, there werer 48,842 rows and 15 columns.
 
 ### Data Dictionary
 
-<img width="749" alt="data_dictionary" src="https://github.com/GyaviWalls/Prediction-of-Product-Sales/assets/44253554/599c0377-b025-4b56-a289-9300c8f5ab18">
+| Feature Name | Description |
+|:--------:|:--------:|
+|  Age |  The individual's age  |
+|  Workclass |  The working class of the individual  |
+|  Fnlwgt	  |  The final weight of the individual  |
+|  Education	  |  The level of education the individual attained  |
+|  Education-num |  The education number of the individual  |
+|  Marital status  |  The current maritual status that the individual's in  |
+|  Occupation   |  Name of where the individual works   |
+|  Relationship	  |  What responsibility the individual holds in the family |
+|  Sex |  The individual's gender  |
+|  Race |  The individual's race if they are at liberty to give it out   |
+|  capital-gain |  The gains in capital the individual makes while working  |
+|  capital-loss |  The loss in capital the individual makes while working  |
+|  Hours-per-week |  The number of hours the individual places into working  |
+|  Native-country |  The country of origin of the individual  |
+|  Income |  Whether the individual earns above 50k or below. This is the target variable to be predicted  |
 
 
 To prepare this data, the data was cleaned, and the following processes were performed:
