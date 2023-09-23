@@ -16,7 +16,7 @@ In the original dataset, there werer 48,842 rows and 15 columns.
 |:--------:|:--------:|
 |  Age |  The individual's age  |
 |  Workclass |  The working class of the individual  |
-|  Fnlwgt	  |  The final weight of the individual  |
+|  Fnlwgt	  |  The number of people the census believes the entry represents.  |
 |  Education	  |  The level of education the individual attained  |
 |  Education-num |  The education number of the individual  |
 |  Marital status  |  The current maritual status that the individual's in  |
