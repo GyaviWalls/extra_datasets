@@ -45,3 +45,28 @@ This bargraph shows that the older someone is irrespective of their education le
 
 ![education_age](https://github.com/GyaviWalls/extra_datasets/assets/44253554/543d16b8-e06c-4227-b13b-b0a63aea4ff9)
 
+### Modeling
+
+Metrics for fine tunned Logistics regression model with Principel Component Analysis applied
+> Training data
+<img width="611" alt="Screenshot 2023-09-30 at 22 02 16" src="https://github.com/GyaviWalls/extra_datasets/assets/44253554/149809f5-86ba-41ee-8e53-799df20a85a4">
+
+---
+> Test data
+<img width="611" alt="Screenshot 2023-09-30 at 22 02 54" src="https://github.com/GyaviWalls/extra_datasets/assets/44253554/a2a55a29-8daf-4123-80a9-a3e3a7b4f541">
+
+
+From the stakeholder's perspective, false positive would mean that individuals might end up spending more than they need to like in projects that end up running bankrupt while a false negative would mean that individuals might end up restraining themselves on a tight budget yet they could afford to be more comfortable with their expenditure.
+
+As seen from the support columns of each metric, the dataset much less number of people with incomes above 50k, so the model had to be tunned to reemedy that.
+
+
+### Recommendations:
+
+- I'd advise the stake holders to keep a keen eye on their incomes and avoid assumptions, it would be alarming to make more losses than initially anticipated.
+- To secure their place in the greater than 50k income category, i'd advise the stakeholders to keep on upgrading their features for such things are also considered.
+
+
+
+
+
